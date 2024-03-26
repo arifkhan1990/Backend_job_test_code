@@ -1,0 +1,31 @@
+Enter command (registerDoc, markDocAvail, showAvailByspeciality, registerPatient, bookAppointment, cancelBookingId, showAppointmentsBooked, exit): 
+Welcome Dr. Curious !!
+Done Doc!
+Welcome Dr. Dreadful !!
+Done Doc!
+CardiologistDr. Curious: (9:00-10:00) 
+Dr. Curious: (12:00-13:00) 
+Dr. Curious: (16:00-17:00) 
+
+PatientA registered successfully.
+Booked. Booking id: 1001
+CardiologistDr. Curious: (9:00-10:00) 
+Dr. Curious: (16:00-17:00) 
+
+Slot not available for booking!
+Booking Cancelled
+CardiologistDr. Curious: (9:00-10:00) 
+Dr. Curious: (16:00-17:00) 
+Dr. Curious: (12:00-13:00) 
+
+Booked. Booking id: 1002
+Welcome Dr. Daring !!
+Done Doc!
+DermatologistDr. Dreadful: (9:00-10:00) 
+Dr. Dreadful: (11:00-12:00) 
+Dr. Dreadful: (13:00-14:00) 
+
+Dr. Daring: (11:00-12:00) 
+Dr. Daring: (14:00-15:00) 
+
+Booked. Booking id: 1003
